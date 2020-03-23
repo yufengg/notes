@@ -72,5 +72,15 @@ TensorFlow Object Detection Training on Custom Dataset: https://towardsdatascien
 
 - Guide to Object Detection using Deep Learning: Faster R-CNN,YOLO,SSD (no code, just ideas) https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/
 
-- 
+- TF docs: Transfer learning with a pretrained ConvNet: https://www.tensorflow.org/tutorials/images/transfer_learning
 
+- Lambda labs: classify images with TF: https://lambdalabs.com/blog/how-to-classify-images-with-tensorflow-a-step-by-step-tutorial/
+
+  - Transfer Learning with TensorFlow Tutorial: Image Classification https://lambdalabs.com/blog/transfer-learning-with-tensorflow-tutorial-image-classification-example/
+
+  - Oct 2018: image segmentation: https://lambdalabs.com/blog/image-segmentation-i-beginners-demo-2/
+
+  - Sept 2018: hyperparameter tuning: https://lambdalabs.com/blog/image-classfication-i-beginners-demo-2/
+
+- GCP 'Solution': Creating an Object Detection Application Using TensorFlow. https://cloud.google.com/solutions/creating-object-detection-application-tensorflow
+  - Note: This comes with a basic web frontend
