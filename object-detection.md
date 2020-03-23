@@ -84,3 +84,5 @@ TensorFlow Object Detection Training on Custom Dataset: https://towardsdatascien
 
 - GCP 'Solution': Creating an Object Detection Application Using TensorFlow. https://cloud.google.com/solutions/creating-object-detection-application-tensorflow
   - Note: This comes with a basic web frontend
+
+- TF obj detection pipeline config: https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/configuring_jobs.md
