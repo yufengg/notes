@@ -6,4 +6,8 @@ Interesting datasets from around the web
 
 - DOTA: A Large-scale Dataset for Object DeTection in Aerial Images: https://captain-whu.github.io/DOTA/index.html
 
-- 
+- Library of Congress free to use:
+  - https://www.loc.gov/free-to-use/
+  - https://www.loc.gov/collections/
+  
+  
