@@ -1,4 +1,4 @@
-## Tools and Tooling
+## Tools and Resources
 
 Everything from environmental setup to resource lists
 
@@ -13,3 +13,6 @@ Everything from environmental setup to resource lists
 - nbdev: jupyter notebooks for everything: https://www.fast.ai/2019/12/02/nbdev/
 
 - Linux Foundation AI interactive landscape: https://landscape.lfai.foundation/zoom=120
+
+- 20 data science projects at the core of every successful business: https://medium.com/applied-data-science/every-arrow-on-this-diagram-is-a-data-science-project-775339e51828
+
