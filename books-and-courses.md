@@ -9,6 +9,9 @@ Online reading and learning material
 
 
 ## Online courses
+
+- https://github.com/luspr/awesome-ml-courses
+
 - fast.ai https://course.fast.ai/index.html
 
 - Deep learning specialization deeplearning.ai
