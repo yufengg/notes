@@ -11,6 +11,10 @@ Online reading and learning material
 ## Online courses
 - fast.ai https://course.fast.ai/index.html
 
+- Deep learning specialization deeplearning.ai
+
+- MIT deep learning courses: https://deeplearning.mit.edu/
+
 - Udacity Deep Learning with PyTorch: https://classroom.udacity.com/courses/ud188
   - Github: https://github.com/udacity/deep-learning-v2-pytorch/
  
