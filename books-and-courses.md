@@ -21,7 +21,7 @@ Online reading and learning material
 - Udacity Deep Learning with PyTorch: https://classroom.udacity.com/courses/ud188
   - Github: https://github.com/udacity/deep-learning-v2-pytorch/
 
-- NYU Yann LeCunn's NYU Deep Learning course, circa Spring 2020: [announcement](https://nyudatascience.medium.com/yann-lecuns-deep-learning-course-at-cds-is-now-fully-online-accessible-to-all-787ddc8bf0af), [course link](https://atcold.github.io/pytorch-Deep-Learning/)
+- NYU Yann LeCun's NYU Deep Learning course, circa Spring 2020: [announcement](https://nyudatascience.medium.com/yann-lecuns-deep-learning-course-at-cds-is-now-fully-online-accessible-to-all-787ddc8bf0af), [course link](https://atcold.github.io/pytorch-Deep-Learning/)
  
 ## Books
 
